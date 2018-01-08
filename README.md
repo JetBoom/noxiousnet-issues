@@ -1,8 +1,7 @@
 # noxiousnet-issues
 
-Here you can post bugs that I can track instead of you spamming my e-mails and PMs.
+Repository for posting and tracking issues related to any private codebases on noxiousnet.com
+This is for BUGS and PROBLEMS and ISSUES. Suggestions belong on the forums.
+Tag your issues with square brakets like so: [ZS], [Core], [EFT], etc.
 
-This is for BUGS and PROBLEMS and ISSUES.
-It is NOT for SUGGESTIONS (yet).
-
-Do NOT post issues related to any public release _versions_ here.
+Issues related to any public release _versions_ belong in their appropriate repositories.
